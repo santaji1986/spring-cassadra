@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 	<name>spring-data-cassandra</name>
 
-	<!-- <spring.version>4.3.20.RELEASE</spring.version> -->
+	<!-- <spring.version>5.2.22.RELEASE</spring.version> -->
 	<!-- <junit.jupiter.version>5.0.2</junit.jupiter.version> -->
 	<properties>
 		<!-- logging -->
